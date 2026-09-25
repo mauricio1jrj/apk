@@ -1,0 +1,7 @@
+{
+  "name": "facturapp-movil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
